@@ -1,0 +1,15 @@
+/home/matrix/Documents/SocketProgramming/Client/bin/Debug/net6.0/Client
+/home/matrix/Documents/SocketProgramming/Client/bin/Debug/net6.0/Client.deps.json
+/home/matrix/Documents/SocketProgramming/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/matrix/Documents/SocketProgramming/Client/bin/Debug/net6.0/Client.dll
+/home/matrix/Documents/SocketProgramming/Client/bin/Debug/net6.0/Client.pdb
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.dll
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/refint/Client.dll
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.pdb
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/home/matrix/Documents/SocketProgramming/Client/obj/Debug/net6.0/ref/Client.dll
