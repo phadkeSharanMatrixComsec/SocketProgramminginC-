@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matrix/Documents/SocketProgramming/Client/Client.csproj",
+      "projectUniqueName": "/home/matrix/Documents/SocketProgramminginC-/Client/Client.csproj",
       "projectName": "Client",
-      "projectPath": "/home/matrix/Documents/SocketProgramming/Client/Client.csproj",
+      "projectPath": "/home/matrix/Documents/SocketProgramminginC-/Client/Client.csproj",
       "packagesPath": "/home/matrix/.nuget/packages/",
-      "outputPath": "/home/matrix/Documents/SocketProgramming/Client/obj/",
+      "outputPath": "/home/matrix/Documents/SocketProgramminginC-/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matrix/.nuget/NuGet/NuGet.Config"

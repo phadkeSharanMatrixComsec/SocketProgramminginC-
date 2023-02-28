@@ -1,10 +1,6 @@
-using System;
 using System.Net.Sockets;
 using System.Net;
 using System.Text;
-using System.Threading;
-
-
 class Client
 {
     public static int port = 8000;

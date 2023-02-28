@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKFaCSPUXte+OhQCsuQUkPozIqN0D6kP9Ng+D2RzjnpIEqalixmvwxWC1ttftuJXu8o/eu0fsmiuFiTfT2KvGA==",
+  "dgSpecHash": "o/gm6EP5tOUOTMOUCxkGvapIYRaCIW9OUJcXsO2bTFdpz6qjZ2dQwrjJaRKEpnyCuRQcNVoI7s3Ae1OqTIHpLA==",
   "success": true,
-  "projectFilePath": "/home/matrix/Documents/SocketProgramming/Client/Client.csproj",
+  "projectFilePath": "/home/matrix/Documents/SocketProgramminginC-/Client/Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
